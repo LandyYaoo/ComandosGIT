@@ -14,7 +14,7 @@ Esta es una breve guia con algunos de los comandos basicos para trabajar en GIT
 
 
 
-#Git status<a name="git-status"></a>
+#**Git status**<a name="git-status"></a>
 
 git status es un comando de Git que muestra el estado actual del repositorio local. 
 
@@ -27,7 +27,7 @@ git status
     
     
     
-#Git init<a name="git-init"></a>
+**# Git init**<a name="git-init"></a>
 
 El comando git init crea un nuevo repositorio de Git. 
 
@@ -39,7 +39,7 @@ git init
 ```
 
 
-#Git remote add origin<a name="git-remote"></a>
+**# Git remote add origin**<a name="git-remote"></a>
 
 El comando git remote add se utiliza para agregar un nuevo repositorio remoto a un repositorio local de Git. 
 
@@ -56,7 +56,7 @@ git remote add origin https://github.com/usuario/repo.git
 ```
 
 
-#git fetch origin main<a name="git-fetch"></a>
+**# git fetch origin main**<a name="git-fetch"></a>
 
 git fetch es un comando de Git que permite traer los cambios de un repositorio remoto al repositorio local sin mezclarlos con los cambios locales.
 
@@ -66,7 +66,7 @@ git fetch origin main
 ```
 
 
-#git pull origin main<a name="git-pull"></a>
+**# git pull origin main**<a name="git-pull"></a>
 
 Al ejecutar git pull, Git descarga los cambios más recientes del repositorio remoto y los combina automáticamente con la rama local actual.
 
@@ -76,7 +76,7 @@ git pull origin main
 ```
 
 
-#git add .<a name="git-add"></a>
+**# git add .**<a name="git-add"></a>
 
 Es un comando de Git que agrega todos los cambios en el directorio de trabajo actual al área de preparación de Git. Esto significa que los cambios se preparan para ser confirmados en el repositorio Git.
 
@@ -86,7 +86,7 @@ git add .
 ```
 
 
-#Git commit -m " "<a name="git-commit"></a>
+**# Git commit -m " "**<a name="git-commit"></a>
 
 git commit -m es un comando de Git que permite confirmar los cambios en el repositorio local con un mensaje que describe los cambios realizados.
 
@@ -96,7 +96,7 @@ git commit -m "Tu commit aqui"
 ```
 
 
-#Git push -u origin main<a name="git-push"></a>
+**# Git push -u origin mai**n<a name="git-push"></a>
 
 git push -u origin main es un comando de Git que se utiliza para enviar los cambios confirmados en el repositorio local al repositorio remoto en una rama específica.
 
