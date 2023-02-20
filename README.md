@@ -24,6 +24,7 @@ Proporciona información sobre los cambios realizados en el directorio de trabaj
 ```
 git status
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220140154-8047a831-eda6-49a9-9d5c-8a5dfb2be7dd.png">
     
     
     
@@ -37,6 +38,8 @@ Puede utilizarse para convertir un proyecto existente y sin versión en un repos
 ```
 git init
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220140734-b06f25bb-c64d-4307-800e-342b4fd4da56.png">
+
 
 
 **# Git remote add origin**<a name="git-remote"></a>
@@ -54,6 +57,7 @@ La URL del repositorio remoto, que es la dirección del repositorio remoto en la
 ```
 git remote add origin https://github.com/usuario/repo.git
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220141170-912cfb06-debb-4dc7-853a-8c33ea23663f.png">
 
 
 **# git fetch origin main**<a name="git-fetch"></a>
@@ -64,6 +68,8 @@ git fetch es un comando de Git que permite traer los cambios de un repositorio r
 ```
 git fetch origin main
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220141241-cf391636-7b3a-4775-8856-9025a19e0b14.png">
+
 
 
 **# git pull origin main**<a name="git-pull"></a>
@@ -74,6 +80,8 @@ Al ejecutar git pull, Git descarga los cambios más recientes del repositorio re
 ```
 git pull origin main
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220141346-48a15120-5985-4a3f-837e-56dbd3b75295.png">
+
 
 
 **# git add .**<a name="git-add"></a>
@@ -84,6 +92,8 @@ Es un comando de Git que agrega todos los cambios en el directorio de trabajo ac
 ```
 git add .
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220141456-5166ef3f-d094-428d-883e-fc91e51ad767.png">
+
 
 
 **# Git commit -m " "**<a name="git-commit"></a>
@@ -94,6 +104,8 @@ git commit -m es un comando de Git que permite confirmar los cambios en el repos
 ```
 git commit -m "Tu commit aqui"
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220141763-e2ed23d6-303d-47de-a5e9-669f453eb770.png">
+
 
 
 **# Git push -u origin mai**n<a name="git-push"></a>
@@ -104,5 +116,8 @@ git push -u origin main es un comando de Git que se utiliza para enviar los camb
 ```
 git push -u origin main
 ```
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/85595613/220141913-42b84479-198a-431c-b375-8d3692efb8fa.png">
 
-###End
+
+
+**###End**
